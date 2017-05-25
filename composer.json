@@ -1,0 +1,13 @@
+{
+    "name":"tginn/hello2",
+    "authors":[
+                {
+                    "name":"Ted Ginn",
+                    "email":"ted1ginn@gmail.com"
+                }
+              ],
+    "require":
+    {
+        "bcosca/fatfree-core":"dev-master"
+    }
+}
